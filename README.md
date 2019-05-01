@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-Created a responsive portfolio displaying projects created during the UC Berkeley-Extension Bootcamp.
+This is a responsive portfolio displaying projects made during 2018 while attending the coding bootcamp. 
 Includes about me, portfolio and contact page.
 
 Link:
